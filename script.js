@@ -1,7 +1,7 @@
 const tasks = [
     { question: "Möchtest du e___ Cola?", answer: "ein / eine" },
     { question: "Wo ist d___ Buch?", answer: "das" },
-    { question: "Ich habe e___ Sohn und eine Tochter.", answer: "einen" },
+    { question: "Ich habe e___ Sohn und e___ Tochter.", answer: "einen - eine" },
     { question: "Hast du e___ Buch?", answer: "ein" },
     { question: "Wir haben k___ Milch mehr.", answer: "keine" },
     { question: "Hast du e___ Fußball dabei?", answer: "einen" },
